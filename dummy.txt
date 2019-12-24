@@ -1,2 +1,3 @@
 This is dummy file for testing
 
+Fixed bug 5
