@@ -1,4 +1,4 @@
 This is dummy file for testing
 
 Fixed bug 5
-Fixed bug5 #5
+Fixed bug5#5
